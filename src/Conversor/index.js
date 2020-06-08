@@ -169,7 +169,7 @@ const styles = StyleSheet.create({
     },
     iconGov: {
         width: 250,
-        height: 40,
+        height: 45,
         alignSelf: "center"
     },
     covid_view: {

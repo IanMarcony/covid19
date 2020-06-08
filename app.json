@@ -26,6 +26,8 @@
     },
     "android": {
       "package": "com.ianmarcony.covid19"
-    }
+    },
+    "description": "App to compare datas from Governo Federal with datas from Covid19-Brazil Site\n",
+    "githubUrl": "https://github.com/IanMarcony/covid19"
   }
 }
