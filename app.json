@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "conversor",
-    "slug": "conversor",
+    "name": "Covid19",
+    "slug": "Covid19",
     "platforms": [
       "ios",
       "android",
